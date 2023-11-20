@@ -12,3 +12,5 @@ Recentemente comecei a aprender programação já que desde pequena sempre tive 
 
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NatGC=anuraghazra&show_icons=true&theme=transparent)
+
