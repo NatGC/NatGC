@@ -12,5 +12,5 @@ Recentemente comecei a aprender programação já que desde pequena sempre tive 
 
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NatGC=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatGC)](https://github.com/anuraghazra/github-readme-stats)
 
